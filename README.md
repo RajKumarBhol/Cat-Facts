@@ -1,1 +1,1 @@
-Creating Random Cat facts using API.
+Generating Random Cat facts using API.
