@@ -15,7 +15,6 @@ async function getFacts(){
 }
 
 
-
 btn.addEventListener("click",async()=>{
     let facts=await getFacts();
     console.log(facts);
