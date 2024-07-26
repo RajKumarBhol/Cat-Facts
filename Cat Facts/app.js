@@ -1,5 +1,4 @@
 let url="https://catfact.ninja/fact";
-
 let btn=document.querySelector("button");
 
 
